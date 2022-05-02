@@ -10,4 +10,4 @@ microarray/**
 !**/*.dvc
 !README.md
 !condaEnv.yaml
-!*.gitignore
+!**/*.gitignore
