@@ -1,0 +1,6 @@
+name: test_assets
+channels:
+   - conda-forge
+   - defaults
+dependencies:
+   - dvc
