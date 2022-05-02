@@ -1,0 +1,8 @@
+# ignore all files
+bulkRNASeq/*
+microarray/*
+# except dvc markers
+!*/*.dvc
+!README.md
+!condaEnv.yaml
+!*.gitignore
