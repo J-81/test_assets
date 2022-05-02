@@ -11,3 +11,5 @@ microarray/**
 !README.md
 !condaEnv.yaml
 !**/*.gitignore
+
+secrets/*
